@@ -1,0 +1,8 @@
+{
+  "name": "Remix AI Clinic \u0026 Healthcare Management",
+  "description": "Healthcare management and AI clinic analytics system powered by clinical database records.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
